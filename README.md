@@ -15,4 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![tylim88's github stats](https://github-readme-stats.vercel.app/api?username=tylim88)](https://github.com/tylim88/github-readme-statsa&show_icons=true&theme=radical&count_private=true)
+<a href="https://github.com/tylim88/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.tylim88.vercel.app/api/top-langs/?username=tylim88&theme=radical" />
+</a>
+<a href="https://github.com/tylim88/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.tylim88.vercel.app/api?username=tylim88&show_icons=true&theme=radical&line_height=27&count_private=true" alt="tylim's github stats" />
+</a>
+
+<a href="https://github.com/tylim88/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.tylim88.vercel.app/api/pin/?username=tylim88&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/tylim88/tylim88.github.io">
+  <img align="center" src="https://github-readme-stats.tylim88.vercel.app/api/pin/?username=tylim88&repo=tylim88.github.io&theme=radical" />
+</a>
+
+
