@@ -34,7 +34,7 @@ The ecosystem that I am contributing to right now is Firebase, not because I use
 
 Eventhough I don't use Firebase in production, but rest assure that my project quality is the best of its kind out there.
 
-Don't take my words for it, compare them yourself and if you found something better, let me know, I love to be amazed.
+DO NOT take my words for it, compare them yourself. Aand if you found something better, please, let me know, I love to be amazed, I want to know such possibility exists.
 
 Take a look at FirelordJS, it is my finest open source project, crafted with heart and soul.
 
