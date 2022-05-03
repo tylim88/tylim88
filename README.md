@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 Hi, I am Tylim.
 
-I love to code in Typescript and am obsessed with writing absolute type-safe code.
+I love to code in Typescript and am obsessed with absolute type-safe code.
 
 I am a tool thinker, most of my open-source projects focus on developing tools that help developers write type-safe scalable dry code.
 
-The ecosystem that I am contributing to right now is Firebase, not because I use Firebase for my project but because the ecosystem is still young and there is not many high-quality project yet, so there is more room to cook stuffs.
+The ecosystem that I am contributing to right now is Firebase, not because I use Firebase for my project but because the ecosystem is still young and there is more room to cook stuffs.
 
 Eventhough I don't use Firebase in production, but rest assure that my project quality is the best of its kind out there.
 
