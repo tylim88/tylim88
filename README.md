@@ -23,3 +23,16 @@ Here are some ideas to get you started:
 </a>
 
 
+Hi, I am Tylim.
+
+I love to code in Typescript and am obsessed with writing absolute type-safe code. I also enjoy writing scalable and dry code.
+
+Most of my open-source projects focus on developing tools that help developers write type-safe scalable dry code.
+
+The ecosystem that I am contributing to right now is Firebase.
+
+The reason I choose Firebase is that the ecosystem is still young and there is not much high-quality project yet.
+
+If you are Typescript lover and you are looking for cool Typescript project, take a look ar FirelordJS, it is my finest open source project.
+
+Enjoy your stay!
