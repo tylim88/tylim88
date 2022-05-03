@@ -32,9 +32,9 @@ I am a tool thinker, most of my open-source projects focus on developing tools t
 
 The ecosystem that I am contributing to right now is Firebase, not because I use Firebase for my project but because the ecosystem is still young and there is more room to cook stuffs.
 
-Eventhough I don't use Firebase in production, but rest assure that my project quality is the best of its kind out there.
+Eventhough I don't use Firebase in production, but rest assure that my project quality is the best of its kind.
 
-DO NOT take my words for it, compare them yourself. Aand if you found something better, please, let me know, I love to be amazed, I want to know such possibility exists.
+DO NOT take my words for it, compare them yourself. And if you found something better, please, let me know, I love to be amazed, I want to know such possibility exists.
 
 Take a look at FirelordJS, it is my finest open source project, crafted with heart and soul.
 
