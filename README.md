@@ -31,7 +31,7 @@ Most of my open-source projects focus on developing tools that help developers w
 
 The ecosystem that I am contributing to right now is Firebase.
 
-The reason I choose Firebase is that the ecosystem is still young and there is not much high-quality project yet.
+The reason I choose Firebase is that the ecosystem is still young and there is not much high-quality project yet, so there is more room to cook some stuffs.
 
 If you are Typescript lover and you are looking for cool Typescript project, take a look ar FirelordJS, it is my finest open source project.
 
