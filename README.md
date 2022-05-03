@@ -29,9 +29,11 @@ I love to code in Typescript and am obsessed with writing absolute type-safe cod
 
 I am a tool thinker, most of my open-source projects focus on developing tools that help developers write type-safe scalable dry code.
 
-The ecosystem that I am contributing to right now is Firebase, not because I use Firebase for my project but because the ecosystem is still young and there is not many high-quality project yet, so there is more room to cook some stuffs.
+The ecosystem that I am contributing to right now is Firebase, not because I use Firebase for my project but because the ecosystem is still young and there is not many high-quality project yet, so there is more room to cook stuffs.
 
-Eventhough I don't use Firebase in production, but rest assure that my project quality is the best of its kind out there, don't take my words for it, compare them yourself.
+Eventhough I don't use Firebase in production, but rest assure that my project quality is the best of its kind out there.
+
+Don't take my words for it, compare them yourself and if you found something better, let me know.
 
 Take a look at FirelordJS, it is my finest open source project, crafted with heart and soul.
 
