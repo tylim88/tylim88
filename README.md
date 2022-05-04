@@ -28,8 +28,6 @@ Hi, I am Tylim.
 
 I love to code in Typescript and am obsessed with absolute type-safe code.
 
-I am a tool thinker, I love to develpe tools for devlopers.
-
 Most of my open-source projects focus on developing tools that help developers to write type-safe scalable dry code, so that they can code with ease, code in peace, code safely and code fast.
 
 The ecosystem that I am contributing to right now is Firebase, not because I use Firebase for my project but because the ecosystem is still young and there is more room to cook stuffs.
