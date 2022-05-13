@@ -30,7 +30,7 @@ I love to code in Typescript and am obsessed with absolute type-safe code.
 
 Most of my open-source projects focus on developing tools that help developers to write type-safe scalable dry code, so that they can code with ease, code in peace, code safely and code fast.
 
-The ecosystem that I am contributing to right now is Firebase, not because I use Firebase for my project but because the ecosystem is still young and there is more room to cook stuffs.
+The ecosystem that I am contributing to right now is Firebase, not because I use Firebase for my project but because the ecosystem is still young and there is more room to cook stuffs.(update, currently moving to python ecosystem)
 
 Eventhough I don't use Firebase in production, but rest assure that my project quality is the best of its kind.
 
