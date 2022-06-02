@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![tylim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tylim88)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![tylim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tylim88)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Hi, I am Tylim.
 
