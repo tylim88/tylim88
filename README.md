@@ -38,7 +38,7 @@ Eventhough I don't use Firebase in production, but rest assure that my project q
 
 DO NOT take my words for it, compare them yourself. And if you found something better, please, let me know. I want to know if such possibility exists, I love to be amazed.
 
-Currently I am working on deep learning (with Python of course), I will share the works when it is done.
+Currently I am working on dart and python.
 
 Meanwhile take a look at FirelordJS, it is my finest open source project, crafted with heart and soul.
 
