@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 
 <!-- [![tylim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tylim88)](https://github.com/anuraghazra/github-readme-stats) -->
 
-Type Safe Enjoyer  
 Stage 4 Typescript Patient
