@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 <!-- [![tylim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tylim88)](https://github.com/anuraghazra/github-readme-stats) -->
 
-Stage 4 Typescript Patient
+Apparently I love to waste my brain cells on some silly Typescript wrapper
