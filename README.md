@@ -1,4 +1,4 @@
-### Hi there, I'm [tylim!](https://tylim88.github.io) 👋
+### Hi there, I'm [tylim!](https://tylim88.github.io), a Typescript Zombie 🧟👋
 
 <!--
 **tylim88/tylim88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
