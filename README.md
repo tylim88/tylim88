@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 Stage 4 Typescript Patient.
 
-I will always follow back unless you are a spammer.
+Curious about how to create an Odd Number Type? Then you have to check out my [articles](https://dev.to/dashboard) on all kinds of Typescript quirks, tips and techniques
