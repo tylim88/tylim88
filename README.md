@@ -30,6 +30,6 @@ Are you curious about creating an [Odd Number Type](https://dev.to/tylim88/types
 
 Or how to create a deep, type-safe database wrapper like FireSage and Firelord? 
 
-You can find all these knowledge pieces and more in my [articles](https://dev.to/dashboard) on various TypeScript quirks, tips, and techniques.
+You can find all these knowledge pieces and more in my [articles](https://dev.to/tylim88) on various TypeScript quirks, tips, and techniques.
 
 
