@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/tylim88/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylim88&theme=radical&count_private=true" />
 </a>
-<a href="https://github.com/tylim88/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tylim88&show_icons=true&theme=radical&line_height=27&count_private=true" alt="tylim88's github stats" />
-</a>
+
 <br/>
 <br/>
 
