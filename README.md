@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/tylim88/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylim88&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats-mu-six-34.vercel.app/api/top-langs/?username=tylim88&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/tylim88/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tylim88&show_icons=true&theme=radical&line_height=27&count_private=true" alt="tylim88's github stats" />
+  <img align="center" src="https://github-readme-stats-mu-six-34.vercel.app/api?username=tylim88&show_icons=true&theme=radical&line_height=27&count_private=true" alt="tylim88's github stats" />
 </a>
 <br/>
 <br/>
 
-<!-- [![tylim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tylim88)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![tylim's wakatime stats](https://github-readme-stats-mu-six-34.vercel.app/api/wakatime?username=tylim88)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Are you curious about creating an [Odd Number Type](https://dev.to/tylim88/typescript-odd-number-type-1fj)?
 
