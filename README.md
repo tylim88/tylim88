@@ -32,4 +32,4 @@ Or how to create a deep, type-safe database wrapper like FireSage and Firelord?
 
 You can find all these knowledge pieces and more in my [articles](https://dev.to/tylim88) on various TypeScript quirks, tips, and techniques.
 
-
+🔭 I’m currently working on [kotori](https://github.com/tylim88/Kotori)
